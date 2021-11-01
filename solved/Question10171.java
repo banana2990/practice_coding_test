@@ -1,6 +1,6 @@
 package solved;
 
-public class Question_10171
+public class Question10171
 {
     public static void main(String[] args)
     {
